@@ -1,4 +1,4 @@
-FROM alpine:3.6
+FROM alpine:3.10
 LABEL maintainer "L3msh0@gmail.com"
 
 ARG SKIPFISH_VERSION=2.10b
